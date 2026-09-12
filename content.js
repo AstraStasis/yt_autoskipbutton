@@ -1,3 +1,5 @@
+
+
 function skipAd() {
     const video = document.querySelector('video');
     const isAdPlaying = document.querySelector('.ad-showing, .ad-interrupting');
